@@ -1,1 +1,21 @@
-{\n  "name": "oleas-real-estate",\n  "version": "1.0.0",\n  "description": "Real estate website for Oleas",\n  "private": true,\n  "scripts": {\n    "dev": "next dev",\n    "build": "next build",\n    "start": "next start",\n    "lint": "next lint"\n  },\n  "dependencies": {\n    "react": "^18.2.0",\n    "react-dom": "^18.2.0",\n    "next": "^14.0.0"\n  },\n  "devDependencies": {\n    "eslint": "^8.0.0",\n    "eslint-config-next": "^14.0.0"\n  }\n}
+{
+  "name": "oleas-real-estate",
+  "version": "1.0.0",
+  "description": "Real estate website for Oleas",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
